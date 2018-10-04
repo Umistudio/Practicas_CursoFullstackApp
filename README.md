@@ -1,16 +1,16 @@
-# AR.js - Augmented Reality for the Web
+# Practicas del Curso Fullstack y Apps hibridas 
 
  [![Augmented Website](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)](https://github.com/jeromeetienne/AR.js)
 
 [![npm](https://img.shields.io/npm/v/ar.js.svg)](https://www.npmjs.com/package/ar.js)
-[![npm](https://img.shields.io/npm/dt/ar.js.svg)](https://www.npmjs.com/package/ar.js)
+[![npm](https://img.shields.io/github/repo-size/badges/shields.svg)
 <br class="badge-separator" />
 [![Gitter chat](https://badges.gitter.im/AR-js/Lobby.png)](https://gitter.im/AR-js/Lobby)
 <span class="badge-patreon"><a href="https://patreon.com/jerome_etienne" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerome_etienne.svg?style=plastic&label=Twitter&style=plastic)](https://twitter.com/jerome_etienne)
 
-I am focusing hard on making AR for the web a reality.
-This repository is where I publish the code.
+Este repositorio contiene las practicas de programación del curso Fullstack y Apps Hibridas de toda la temática de la formación.
+Aquí encuentra publicado el codigo de las practicas.
 Contact me anytime [@jerome_etienne](https://twitter.com/jerome_etienne).
 Stuff are still moving fast, We reached a good status tho.
 An article has been published on [uploadvr](https://uploadvr.com/ar-js-efficient-augmented-reality-for-the-web/).
@@ -23,7 +23,7 @@ So I wanted to publish thus people can try it and have fun with it :)
 
 [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
 
-# Try it on Mobile
+# HTML5
 
 It works on all platforms. Android, IOS and window phone. It run **any browser with WebGL and WebRTC**.
 (for IOS, you need to update to ios11)
@@ -38,7 +38,7 @@ to your screen.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/252962/23072106/73a0656c-f528-11e6-9fcd-3c900d1d47d3.jpg)
 
-# Standing on the Shoulders of Giants
+# CSS3
 
 So we shown it is now possible to do 60fps web-based augmented reality on a phone.
 This is great for sure but how did we get here ? **By standing on the shoulders of giants!**
@@ -59,7 +59,7 @@ Now, many people got a phone powerful enough to do web AR in their pocket.
 I think this performance improvement makes web AR a reality.
 I am all exited by what people are going to do with it :)
 
-# Performance
+# Javascript
 
 We are still early in the project but here are some initial numbers to give you an idea.
 
@@ -74,7 +74,7 @@ and the hardware that you are using.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/252962/23068128/40343608-f51a-11e6-8cb3-900e37a7f658.jpg)
 
-# Full Featured Marker based
+# GIT y GITHUB
 With this project, we bring more performance to artoolkit.
 artoolkit is a software with years of experience doing augmented reality. It is able to do a lot!
 
@@ -82,7 +82,7 @@ It is marker based. It supports a wide range of markers: multiple types of marke
 multiple independent markers at the same time, or [multiple markers acting as a single marker](https://artoolkit.org/documentation/doku.php?id=3_Marker_Training:marker_multi)
 up to you to choose.
 
-# What’s New?
+# PostgreSQL
 Recently, we’ve been getting creative and working on developing new things with AR.js. One of them is playing around with [shadows](https://twitter.com/jerome_etienne/status/837240034847764480), syncing the position of virtual lights with reality for a more life-like finish:
 ![screen shot 2017-03-16 at 21 06 24](https://cloud.githubusercontent.com/assets/6317076/24018623/7f787ba8-0a8c-11e7-8088-fea4799b5d09.png)
 
@@ -93,18 +93,18 @@ Other crazy ideas we’ve been working on include a [hole in the wall](https://t
 ![screen shot 2017-03-12 at 15 19 51](https://cloud.githubusercontent.com/assets/6317076/23833024/b2e045be-0737-11e7-9ef0-8e1ac9e49ba8.png)
 ![screen shot 2017-03-07 at 10 08 39](https://cloud.githubusercontent.com/assets/6317076/23833015/947f6abe-0737-11e7-9a0d-1ea919f6ffbe.png)
 
-# Principles
+# Ruby 
 - "Shared #ar is a lot more real than solo #AR." - Augmented reality principle [tweet](https://twitter.com/jerome_etienne/status/847889867296124933)
 - "The marker must be a portal from where the virtual emerges." by @AndraConnect - #AR principles at dinner 😏 [tweet](https://twitter.com/jerome_etienne/status/842112692211056640)
 
-# Status
+# Ruby On Rails
 - At the three.js level is the main one. It is working well and efficiently
 - a-frame component - it export ```<a-marker>``` tag. It becomes real easy to use.
   It allows the things three.js extension does. Here are some slides
   [aframe-artoolkit](http://jeromeetienne.github.io/slides/artoolkit-aframe/)
 - webvr-polyfill: it is kind of working - still a work-in-progress
 
-# Augmented reality for the web in less than 10 lines of html
+# Angular 5 y Typescript
 
 A-Frame magic :) All details are explained in this super post
 ["Augmented Reality in 10 Lines of HTML - AR.js with a-frame magic"](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
@@ -129,7 +129,7 @@ by
 
 See on [codepen](https://codepen.io/jeromeetienne/pen/mRqqzb) or [bl.ocks.org](https://bl.ocks.org/jeromeetienne/feeb69257803e69f18dc3ea5f4fc6d71)
 
-# Posts on medium
+# Ionic
 We started a [AR.js blog](https://medium.com/arjs), thus we can write about
 all the crazy ideas related to AR.js.
 
@@ -146,7 +146,7 @@ all the crazy ideas related to AR.js.
 - ["Augmented Reality in 10 Lines of HTML - AR.js with a-frame magic"](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
   by [@AndraConnect](https://twitter.com/AndraConnect)
 
-# Great Posts by Users
+# Nginx
 
 - How to write a AR.js application ?
 Here is a [full tutorial](https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html)
@@ -156,7 +156,7 @@ Very great! the perfect step if you want to start writing AR application today.
 - Great post about [WebAR for designer](http://www.nexusinteractivearts.com/webar/)
 by [nexus interactive arts](http://www.nexusinteractivearts.com/)
 
-# Augmented Website
+# Postman
 [Seminal post](https://medium.com/arjs/augmenting-the-web-page-e893f2d199b8) explaining the concept.
 The service is available [webxr.io/augmented-website](https://webxr.io/augmented-website/)
 
